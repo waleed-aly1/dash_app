@@ -133,7 +133,7 @@ app.layout = html.Div([dbc.Tabs([
     html.Div([
         dcc.Graph(id='delta_graph'),
 
-    ], style={'width': '44%', 'display': 'inline-block',
+    ], style={'width': '36%', 'display': 'inline-block',
               'border-radius': '15px',
               'box-shadow': '4px 4px 4px grey',
               'background-color': '#f9f9f9',
@@ -145,7 +145,7 @@ app.layout = html.Div([dbc.Tabs([
 
     html.Div([dcc.Graph(id='daily_running_graph'),
 
-    ], style={'width': '44%', 'display': 'inline-block',
+    ], style={'width': '36%', 'display': 'inline-block',
               'border-radius': '15px',
               'box-shadow': '4px 4px 4px grey',
               'background-color': '#f9f9f9',
