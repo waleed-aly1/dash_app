@@ -19,11 +19,3 @@ differences between periods to better assist with understanding model drivers.
 
 ![DiffTab](examples/dash_app_differences_window_screenshot.PNG)
 	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
