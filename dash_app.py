@@ -12,7 +12,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 import os
 
-filename = 'XGB_Model_Predictions.csv'
+filename = 'data/XGB_Model_Predictions.csv'
 lastmt = os.stat(filename).st_mtime
 username_password_pairs = [['username', 'password']]
 
